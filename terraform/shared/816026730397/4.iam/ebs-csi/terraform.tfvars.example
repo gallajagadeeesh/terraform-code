@@ -1,0 +1,1 @@
+ebs_csi_role_name = "chat-eks-ebs-csi"

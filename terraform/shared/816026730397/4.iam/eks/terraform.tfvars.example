@@ -1,0 +1,2 @@
+cluster_iam_role_name = "chat-eks-cluster-role"
+node_iam_role_name    = "chat-eks-node-role"

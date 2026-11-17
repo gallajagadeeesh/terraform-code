@@ -1,0 +1,6 @@
+aws_region      = "us-west-2"
+cluster_name    = "chat-eks"
+cluster_version = "1.37"
+
+# Replace with the administrator's actual public IPv4 address and /32 mask.
+cluster_admin_cidrs = ["203.0.113.10/32"]
